@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Bem vindo a minha página pessoal do Github
 
-You can use the [editor on GitHub](https://github.com/Galva1/Galva1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<dev>
+  <img height="300" width="250" title="Perfil_GG" src="https://user-images.githubusercontent.com/39345036/164531712-2b5c1307-dc18-444a-bb89-12010e3575a5.jpg")>
+</dev>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Sobre mim
+
+- 💻 Atualmente estou estudando Javascript, HTML e React
+- 🎮 Gosto do universo de jogos digitais
+- 📚 Graduando em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte - UFRN
+- 🏆 Formação técnica integrada em Programação de Jogos Digitais pelo Instituto Federal de Ciência e Tecnologia - IFRN
 
 ### Markdown
 
