@@ -1,7 +1,8 @@
 ### Eu sou o Gabriel Galvão e seja bem vindo(a) a minha página do GITHUB
 
-- 💻 Atualmente estou estudando Javascript, HTML e React
-- 🎮 Gosto do universo de jogos digitais
+- 💼 Estagiário DEV Delphi/Pascal Liga Contra o Câncer.
+- 💻 Atualmente estou estudando Javascript, HTML, CSS e Flutter.
+- 🎮 Gosto do universo de jogos digitais.
 - 📚 Graduando em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte - UFRN
 - 🏆 Formação técnica integrada em Programação de Jogos Digitais pelo Instituto Federal de Ciência e Tecnologia - IFRN
 
