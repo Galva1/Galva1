@@ -3,7 +3,7 @@
 - 💼 Suporte DEV Liga Contra o Câncer.
 - 💻 Atualmente estou estudando Javascript, HTML, CSS.
 - 🎮 Gosto do universo de jogos digitais.
-- 📚 Graduando em Ciência e Tecnologia pela Universidade Federal do Rio Grande do Norte - UFRN
+- 📚 Tecnólogo em Sistemas para Internet - IFRN
 - 🏆 Formação técnica integrada em Programação de Jogos Digitais pelo Instituto Federal de Ciência e Tecnologia - IFRN
 
 
