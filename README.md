@@ -1,7 +1,7 @@
 ### Eu sou o Gabriel Galvão e seja bem vindo(a) a minha página do GITHUB
 
 - 💼 Suporte DEV Liga Contra o Câncer.
-- 💻 Atualmente estou estudando Javascript, HTML, CSS.
+- 💻 Conhecimento em Javascript, HTML, CSS, SqlServer, Git, Bootstrap, Delphi.
 - 🎮 Gosto do universo de jogos digitais.
 - 📚 Tecnólogo em Sistemas para Internet - IFRN
 - 🏆 Formação técnica integrada em Programação de Jogos Digitais pelo Instituto Federal de Ciência e Tecnologia - IFRN
