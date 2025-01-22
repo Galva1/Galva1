@@ -1,6 +1,6 @@
 ### Eu sou o Gabriel Galvão e seja bem vindo(a) a minha página do GITHUB
 
-- 💼 Suporte DEV Liga Contra o Câncer.
+- 💼 DEV C# Liga Contra o Câncer.
 - 💻 Conhecimento em C#, Javascript, HTML, CSS, SQL Server, Git, Bootstrap, Delphi.
 - 🎮 Gosto do universo de jogos digitais.
 - 📚 Tecnólogo em Sistemas para Internet - IFRN
