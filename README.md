@@ -1,4 +1,4 @@
-- 💼 **DEV em C# na Liga Contra o Câncer** – atuo com desenvolvimento de soluções .NET para apoiar a causa.
+- 💼 **DEV C# na Liga Contra o Câncer** – atuo com desenvolvimento de soluções .NET para apoiar a causa.
 - 💻 **Tecnólogo em Sistemas para Internet** – IFRN.
 - 🧠 **Formação técnica integrada em Programação de Jogos Digitais** – IFRN.
 - 🎮 **Apaixonado por jogos digitais** – esse universo me inspira a criar soluções interativas e otimizadas.
